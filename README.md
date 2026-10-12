@@ -23,4 +23,4 @@ git push
 [Official Git documentation](https://git-scm.com/doc)
 
 ## Image
-![Project image](<project-banner.svg>)
+![Project image](<assets/project-banner.svg>)
