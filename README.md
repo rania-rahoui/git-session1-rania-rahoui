@@ -24,3 +24,5 @@ git push
 
 ## Image
 ![Project image](<assets/project-banner.svg>)
+
+New line.
