@@ -8,11 +8,11 @@
 
 ## Technologies
 - Git
-- GitHUb
+- GitHub
 - Markdown
 - HTML, JavaScript
 
-## Useful commends
+## Useful commands
 ```bash
 git status
 git add <file>
